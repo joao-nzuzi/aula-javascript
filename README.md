@@ -23,3 +23,8 @@ Introdução ao Javascript
   - [x] Lista de Dicionários;
       - Declaração e inicialização de uma lista de dicinário -> **var listaDicionario = [{nome: "Mercedes", Cor: "Vermelho"}, {nome: "Audi", Cor: "Preto"}]**;
       - Impressão de um elemento na lista de dicionário -> **console.log(listaDicionario[0].nome)**;
+      - 
+ ## Conteúdo estudado na 3ª aula:
+  - Estruturas de condição -> **if**;
+  - Estruturas de repetição -> **while -> wilhe(condição), for -> for(inicialiação; condição; iteração)**;
+  - Manipulação de datas -> **new Date()**;
