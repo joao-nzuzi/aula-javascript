@@ -31,3 +31,14 @@ Introdução ao Javascript
 
 ## Conteúdo estudado na 4ª aula:
   - Funções -> **function soma(n1, n2){return n1+n2;}**
+
+## Conteúdo estudado na 5ª aula:
+  - Atributo **onclick** -> onclick="clicou()" -> executa uma ação quando um componente é clicado;
+  - Atributo **onmouseover** -> onmouseover="trocarTexto(this)" -> executa uma ação quando o rato é passado por cima de um componente;
+  - Atributo **onmouseout** -> onmouseout="voltar(this)" -> executa uma ação quando o rato é retirado de cima de um componente;
+  - Atributo **onchange** -> onchange="change(this)" -> executa uma ação quando o clicamos num componente do tipo radiobutton«m, checkbox, combobox;
+  - Atributo **onload** -> onload="load()" -> executa uma ação quando um componente é carregado;
+  - Atributo **document.getElementById** -> document.getElementById("agradecimento").innerHTML = "Obrigado por clicar";
+  - [x] Redirecionamento:
+      - window.open("https://abola.pt/"); -> abre outra aba;
+      - window.location.href  = "https://abola.pt/"; -> Abre na mesma janela
