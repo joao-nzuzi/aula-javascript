@@ -28,3 +28,6 @@ Introdução ao Javascript
   - Estruturas de condição -> **if**;
   - Estruturas de repetição -> **while -> wilhe(condição), for -> for(inicialiação; condição; iteração)**;
   - Manipulação de datas -> **new Date()**;
+
+## Conteúdo estudado na 4ª aula:
+  - Funções -> **function soma(n1, n2){return n1+n2;}**
